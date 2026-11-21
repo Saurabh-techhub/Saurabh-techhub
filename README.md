@@ -1,22 +1,30 @@
 # Hi, I'm Saurabh 👋
 
-Final-year B.Tech (CS, Data Science) | Software Development Engineer intern | AI Software Trainee
+Final-year B.Tech (CS, Data Science) @ Lamrin Tech Skills University, in collaboration with IBM | CGPA 9.0
+Software Development Intern & AI Developer | 1 year of onsite experience in a founder's office
 
-I build AI-powered products: chatbots, LLM automation pipelines and full-stack web apps.
+I build AI-powered products: LLM agents, chatbots, automation workflows and full-stack web apps, shipped to production.
 
 ## 🛠 What I work with
 
-- **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
-- **Frameworks & tools:** React, Firebase, REST APIs, LangChain, n8n, Git
-- **AI:** OpenAI API, Gemini API, prompt engineering, AI agents
+- **Languages:** Python, JavaScript, SQL, PHP, HTML/CSS
+- **Frameworks & tools:** React, Firebase, MySQL, REST APIs, n8n, Git/GitHub
+- **AI / GenAI:** OpenAI API, Gemini API, LangChain, AI agents, prompt engineering
+- **ML & data:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Power BI
 
 ## 🚀 Featured projects
 
-- **[UpLinkAI](https://uplinkai.in):** live CareerTech platform with 1,000+ students across 9+ colleges. I built the student dashboard and an LLM content pipeline.
-- **[ISRO BIPV Analysis Model](https://github.com/Saurabh-techhub/isro-bipv-analysis-model):** Python model for analysing Building Integrated Photovoltaics (BIPV) data.
-- **[Smart Dustbin Data Science Project](https://github.com/Saurabh-techhub/-Smart-Dustbin-Data-Science-Project):** Python data science project on smart waste management.
-- **[Assistive Reader App](https://github.com/Saurabh-techhub/assistive-reader-app):** Python app that helps users read content more easily.
+- **[UpLinkAI](https://uplinkai.in):** GenAI career guidance platform grown to a 1,000+ student community, with an LLM chatbot, quiz-based assessments and a student dashboard.
+- **[EFOS Buddy](https://efos.in/efos-buddy):** AI career-mentor assistant using LLM prompt engineering and context-aware responses.
+- **[epinfoways.com](https://epinfoways.com):** fully agentic, automated corporate website, built and deployed end to end.
+- **Internboot:** internship-listing web platform with backend automation for listings and applications.
+
+## 🏆 Achievements
+
+- AIR 3, IndustrySolve Idea-Thon & Product-a-Thon 2025 (IIIT Delhi)
+- Qualified National Entrance Exam, BSc Data Science (IIT Madras)
+- Application Developer, NSDC/PMKVY Level 5 (Grade A)
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/saurabh-tripathi28) | saurabhtripathi8127@gmail.com
+[Portfolio](https://saurabh-techhub.github.io/Saurabh-Portfolio/) | [LinkedIn](https://www.linkedin.com/in/saurabh-tripathi28) | saurabhtripathi8127@gmail.com
