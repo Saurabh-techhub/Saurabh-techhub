@@ -18,6 +18,11 @@ I build AI-powered products: LLM agents, chatbots, automation workflows and full
 - **[EFOS Buddy](https://efos.in/efos-buddy):** AI career-mentor assistant using LLM prompt engineering and context-aware responses.
 - **[epinfoways.com](https://epinfoways.com):** fully agentic, automated corporate website, built and deployed end to end.
 - **Internboot:** internship-listing web platform with backend automation for listings and applications.
+- - **[Assistive Reader App](https://github.com/Saurabh-techhub/assistive-reader-app):** Python app that helps users read content more easily.
+- **AI Chatbot (EFOS):** automation chatbot built from scratch for company use, using LLM prompt engineering and OpenAI APIs.
+- **[UpLinkAI Quiz App](https://github.com/Saurabh-techhub/Uplinkai-quizapp):** quiz-based assessment app built for the UpLinkAI platform.
+- **[Feedback System](https://github.com/Saurabh-techhub/feedback-system-new):** web-based feedback collection system.
+- **[Portfolio](https://saurabh-techhub.github.io/Saurabh-Portfolio/):** my personal portfolio website, hosted on GitHub Pages.
 - **[ISRO BIPV Analysis Model](https://github.com/Saurabh-techhub/isro-bipv-analysis-model):** Python analysis model for BIPV data.
 - **[Smart Dustbin Data Science Project](https://github.com/Saurabh-techhub/-Smart-Dustbin-Data-Science-Project):** Python data science project on smart waste management.
 
