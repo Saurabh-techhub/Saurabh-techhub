@@ -12,12 +12,14 @@ I build AI-powered products: LLM agents, chatbots, automation workflows and full
 - **AI / GenAI:** OpenAI API, Gemini API, LangChain, AI agents, prompt engineering
 - **ML & data:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Power BI
 
-##  Featured projects
+## Featured projects
 
 - **[UpLinkAI](https://uplinkai.in):** GenAI career guidance platform grown to a 1,000+ student community, with an LLM chatbot, quiz-based assessments and a student dashboard.
 - **[EFOS Buddy](https://efos.in/efos-buddy):** AI career-mentor assistant using LLM prompt engineering and context-aware responses.
 - **[epinfoways.com](https://epinfoways.com):** fully agentic, automated corporate website, built and deployed end to end.
 - **Internboot:** internship-listing web platform with backend automation for listings and applications.
+- **[ISRO BIPV Analysis Model](https://github.com/Saurabh-techhub/isro-bipv-analysis-model):** Python analysis model for BIPV data.
+- **[Smart Dustbin Data Science Project](https://github.com/Saurabh-techhub/-Smart-Dustbin-Data-Science-Project):** Python data science project on smart waste management.
 
 ## 🏆 Achievements
 
