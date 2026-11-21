@@ -12,7 +12,7 @@ I build AI-powered products: LLM agents, chatbots, automation workflows and full
 - **AI / GenAI:** OpenAI API, Gemini API, LangChain, AI agents, prompt engineering
 - **ML & data:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Power BI
 
-## 🚀 Featured projects
+##  Featured projects
 
 - **[UpLinkAI](https://uplinkai.in):** GenAI career guidance platform grown to a 1,000+ student community, with an LLM chatbot, quiz-based assessments and a student dashboard.
 - **[EFOS Buddy](https://efos.in/efos-buddy):** AI career-mentor assistant using LLM prompt engineering and context-aware responses.
