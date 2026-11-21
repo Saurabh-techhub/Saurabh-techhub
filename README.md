@@ -1,6 +1,7 @@
 # Hi, I'm Saurabh 👋
 
 Final-year B.Tech (CS, Data Science) @ Lamrin Tech Skills University, in collaboration with IBM | CGPA 9.0
+
 Software Development Intern & AI Developer | 1 year of onsite experience in a founder's office
 
 I build AI-powered products: LLM agents, chatbots, automation workflows and full-stack web apps, shipped to production.
@@ -20,9 +21,6 @@ I build AI-powered products: LLM agents, chatbots, automation workflows and full
 - **Internboot:** internship-listing web platform with backend automation for listings and applications.
 - **[Assistive Reader App](https://github.com/Saurabh-techhub/assistive-reader-app):** Python app that helps users read content more easily.
 - **[UpLinkAI Quiz App](https://github.com/Saurabh-techhub/Uplinkai-quizapp):** quiz-based assessment app built for the UpLinkAI platform.
-- **[Feedback System](https://github.com/Saurabh-techhub/feedback-system-new):** web-based feedback collection system.
-- **[ISRO BIPV Analysis Model](https://github.com/Saurabh-techhub/isro-bipv-analysis-model):** Python analysis model for BIPV data.
-- **[Smart Dustbin Data Science Project](https://github.com/Saurabh-techhub/-Smart-Dustbin-Data-Science-Project):** Python data science project on smart waste management.
 - **[Portfolio](https://saurabh-techhub.github.io/Saurabh-Portfolio/):** my personal portfolio website, hosted on GitHub Pages.
 
 ## 🏆 Achievements
